@@ -1,0 +1,15 @@
+C:\Users\Peter\source\repos\Console_AppKudvenkat\bin\Debug\net6.0\Console_AppKudvenkat.exe
+C:\Users\Peter\source\repos\Console_AppKudvenkat\bin\Debug\net6.0\Console_AppKudvenkat.deps.json
+C:\Users\Peter\source\repos\Console_AppKudvenkat\bin\Debug\net6.0\Console_AppKudvenkat.runtimeconfig.json
+C:\Users\Peter\source\repos\Console_AppKudvenkat\bin\Debug\net6.0\Console_AppKudvenkat.dll
+C:\Users\Peter\source\repos\Console_AppKudvenkat\bin\Debug\net6.0\Console_AppKudvenkat.pdb
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.AssemblyInfo.cs
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.dll
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\refint\Console_AppKudvenkat.dll
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.pdb
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\Console_AppKudvenkat.genruntimeconfig.cache
+C:\Users\Peter\source\repos\Console_AppKudvenkat\obj\Debug\net6.0\ref\Console_AppKudvenkat.dll
